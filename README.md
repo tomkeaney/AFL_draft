@@ -1,2 +1,2 @@
 # AFL_draft
-A data analysis project exploring the AFL draft
+View NBA projections at https://tomkeaney.github.io/AFL_draft/
